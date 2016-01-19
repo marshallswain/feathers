@@ -29,7 +29,3 @@ node_modules
 
 tmp*
 .idea/
-
-
-# The compiled/babelified modules
-lib/
